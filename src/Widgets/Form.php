@@ -712,7 +712,7 @@ $('.after-submit').iCheck({checkboxClass:'icheckbox_minimal-blue'}).on('ifChecke
 });
 EOT;
 
-        \Admin::script($script);
+        Admin::script($script);
     }
 
     /**

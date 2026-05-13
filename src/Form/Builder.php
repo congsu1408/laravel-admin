@@ -273,7 +273,7 @@ class Builder
     public function disablePjax()
     {
         $this->disablePjax = true;
-        \Admin::disablePjax();
+        Admin::disablePjax();
 
         return $this;
     }
