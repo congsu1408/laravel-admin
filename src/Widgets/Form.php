@@ -3,7 +3,7 @@
 namespace Encore\Admin\Widgets;
 
 use Closure;
-use Encore\Admin\Admin;
+use Encore\Admin\Facades\Admin;
 use Encore\Admin\Form as BaseForm;
 use Encore\Admin\Form\Field;
 use Encore\Admin\Traits\FormTrait;
