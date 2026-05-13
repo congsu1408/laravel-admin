@@ -2,7 +2,6 @@
 
 namespace Encore\Admin;
 
-
 use Closure;
 use Encore\Admin\Auth\Database\Menu;
 use Encore\Admin\Controllers\AuthController;
@@ -27,6 +26,7 @@ class Admin
      * @var string
      */
     const VERSION = '1.7.0';
+    
 
     /**
      * @var Navbar|null
