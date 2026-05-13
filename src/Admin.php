@@ -2,6 +2,7 @@
 
 namespace Encore\Admin;
 
+
 use Closure;
 use Encore\Admin\Auth\Database\Menu;
 use Encore\Admin\Controllers\AuthController;
